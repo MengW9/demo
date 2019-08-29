@@ -9,7 +9,7 @@
 
 #### 1.打开idea创建project
 
-![开始](.\img\1.png)
+![开始](img/1.png)
 
 #### 2.选择maven  --》 next
 
