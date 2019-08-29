@@ -13,25 +13,25 @@
 
 #### 2.选择maven  --》 next
 
-![](.\img\2.png)
+![](img/2.png)
 
 #### 3.输入GAV
 
 输入GroupID（com.xxx）、ArtifactId(springbootDemo)、Version默认        GAV唯一确定一个jar包  整个项目就是一个包
 
-![](.\img\3.png)
+![](img/3.png)
 
 #### 4.选择项目存放位置
 
-![](.\img\4.png)
+![](img/4.png)
 
 #### 5.创建成功  
 
-![](.\img\5.png)
+![](img/5.png)
 
 #### 6.附项目结构
 
-![](.\img\6.png)
+![](img/6.png)
 
 #### 7. 添加maven依赖
 
@@ -59,7 +59,7 @@
 
 ```
 
-![](.\img\7.png)
+![](img/7.png)
 
 #### 8.编写启动启动类
 
@@ -72,10 +72,10 @@ public class Application {
 }
 ```
 
-![](.\img\8.png)
+![](img/8.png)
 
 #### 8.成功
 
-![](.\img\9.png)
+![](img/9.png)
 
-![](.\img\10.png)
+![](img/10.png)
